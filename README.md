@@ -34,7 +34,7 @@
 
 ### 💼 Currently
 
-- 🏭 Built a production **Warehouse Execution System** (C# .NET Core + Angular, 50+ REST APIs, 6 modules) as a Software Engineer at **ORIGTEK Intelligence Malaysia**
+- 🏭 Built a production **Warehouse Execution System** (C# .NET Core + Angular, REST APIs，modules) as a Software Engineer at **ORIGTEK Intelligence Malaysia**
 - 🎓 Final Year Project: **AI Health Assistant System** — self-collected video data, trained an **ST-GCN** model for human action recognition to detect prolonged sitting / dehydration risk
 - 🤖 Exploring agentic coding — building tools with **Claude Code** and **MCP**
 
